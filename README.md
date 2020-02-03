@@ -12,7 +12,14 @@ This Arduino based project will focus on user input. The Serial window will ask 
   - 2x LED's
   - 2x 220 OHM Resistor
   
-### Resistor Reference 
+**Resistor Reference**
 
  <img src="Repository Images/Resistor-Chart.png" width="700" height="600">
+ 
+ **Software:**
+- [Arduino API Downloads](https://www.arduino.cc/en/main/software)
+- [Windows Installation Guide](https://www.arduino.cc/en/guide/windows)
+- [IOS Installation Guide](https://www.arduino.cc/en/guide/macOSX)
+- [Arduino Uno Setup Guide](https://www.arduino.cc/en/Guide/ArduinoUno)
+
 
