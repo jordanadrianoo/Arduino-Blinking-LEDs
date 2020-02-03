@@ -31,3 +31,9 @@ This Arduino based project will focus on user input. The Serial window will ask 
 After downloading the [Source Code](Birthday%20%LED.ino) and Schematics is built, connect the Arduino to the computer using the UBS type-B cord. Open the source code within the Arduino API and hit upload in the top left corner. 
 
 <img src="Repository Images/Upload .JPG" width="300">
+
+
+## Sources and References
+
+ - [Arduino](https://www.arduino.cc/)
+ - [Arduino Uno](https://store.arduino.cc/usa/arduino-starter-kit)
