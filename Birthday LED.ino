@@ -92,13 +92,3 @@ if(numRedBlinks!=0)
 
 
 }
-     digitalWrite(yellowLEDPin,LOW);
-     delay(off);  
-  }}
-
-  Serial.println("\nHappy Holidays! You are very special and I love you.");
-  delay(200000);
-  
-
-
-}
