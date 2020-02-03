@@ -14,5 +14,5 @@ This Arduino based project will focus on user input. The Serial window will ask 
   
 ### Resistor Reference 
 
- <img src="Project Pictures/Resistor-Chart.png" width="700" height="600">
+ <img src="Repository Images/Resistor-Chart.png" width="700" height="600">
 
