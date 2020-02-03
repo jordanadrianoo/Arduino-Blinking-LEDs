@@ -13,3 +13,6 @@ This Arduino based project will focus on user input. The Serial window will ask 
   - 2x 220 OHM Resistor
   
 ### Resistor Reference 
+
+ <img src="Project Pictures/Resistor-Chart.png" width="700" height="600">
+
