@@ -22,4 +22,6 @@ This Arduino based project will focus on user input. The Serial window will ask 
 - [IOS Installation Guide](https://www.arduino.cc/en/guide/macOSX)
 - [Arduino Uno Setup Guide](https://www.arduino.cc/en/Guide/ArduinoUno)
 
+#Arduino Schematics
+
 
