@@ -10,4 +10,5 @@ This Arduino based project will focus on user input. The Serial window will ask 
   - Breadboard
   - Jumper Wires
   - 2x LED's
-  - 2x Resistor
+  - 2x 220 OHM Resistor
+  
