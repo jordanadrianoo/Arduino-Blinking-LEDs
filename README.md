@@ -2,7 +2,7 @@
 
 This Arduino based project will focus on user input. The Serial window will ask the user for their birthday month and day. The Arduino will will blink the red LED to the corresponding month number then yellow LED to corresponding day. Finally, A happy holidays message will display.
 
-### Getting Started
+## Getting Started
 
  **Prerequisites:**
   - Arduino Uno
@@ -22,6 +22,6 @@ This Arduino based project will focus on user input. The Serial window will ask 
 - [IOS Installation Guide](https://www.arduino.cc/en/guide/macOSX)
 - [Arduino Uno Setup Guide](https://www.arduino.cc/en/Guide/ArduinoUno)
 
-#Arduino Schematics
+## Arduino Schematics
 
 
