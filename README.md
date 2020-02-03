@@ -24,4 +24,4 @@ This Arduino based project will focus on user input. The Serial window will ask 
 
 ## Arduino Schematics
 
-<img src="Repository Images/Arduino Schematics.jpg" width="700" height="500">
+<img src="Repository Images/Arduino Schematics.jpg" width="700" height="600">
