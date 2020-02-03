@@ -1,5 +1,4 @@
 
-
 int redLEDPin=10; //Declare redLEDPin an int, and set to pin 9 
 int yellowLEDPin=9; //Declare yellowLEDPin an int, and set to pin 10 
 int on =250; 
@@ -76,12 +75,23 @@ if(numRedBlinks!=0)
 
   if(numYellowBlinks!=0 && numRedBlinks!=0)
   {
+    Serial.println("\n - The Yellow LED is blinking");
    for(int i=0; i<numYellowBlinks;i++)
   {
    Serial.print("   #");
    Serial.println(i+1);
      digitalWrite(yellowLEDPin,HIGH);
      delay(on);
+     digitalWrite(yellowLEDPin,LOW);
+     delay(off);  
+  }}
+
+  Serial.println("\nHappy Holidays! You are very special and I love you.");
+  delay(200000);
+  
+
+
+}
      digitalWrite(yellowLEDPin,LOW);
      delay(off);  
   }}
